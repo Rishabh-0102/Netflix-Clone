@@ -15,7 +15,7 @@ body {
     height: 110vh;
     display: flex;
 }
-
+  
 #bg-image {
     width: inherit;
     height: inherit;
